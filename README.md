@@ -6,10 +6,36 @@
 
 [Commit message](https://github.com/Yannawut62070051/FinalDevTools62070051/wiki/Commit-message)
 
-ทดสอบการใช้งาน API ด้วย postman
+ทดสอบการใช้งาน API ด้วย Postman
+
+````
+git clone https://github.com/Yannawut62070051/FinalDevTools62070051
+cd FinalDevTools62070051
+cd backend
+npm run start
+````
+
 methods ``GET``
 ```http://localhost:3013/class/all```
 
+<img src="https://media.discordapp.net/attachments/680435779767763019/973536124507160576/unknown.png?width=1043&height=669" alt=""/>
+
 เขียน Dockerfile + Dockercompose มาแล้วแต่ไม่ผ่านครับ
 
+## ทดลอง project ด้วย localhost
 
+ในส่วน Backend
+<img src="https://media.discordapp.net/attachments/680435779767763019/973537692732252230/unknown.png?width=1261&height=670" alt=""/>
+````
+git clone https://github.com/Yannawut62070051/FinalDevTools62070051
+cd FinalDevTools62070051
+cd backend
+npm run start
+````
+ในส่วน frontend
+<img src="https://media.discordapp.net/attachments/680435779767763019/973537402771615805/unknown.png?width=1249&height=670" alt=""/>
+````
+cd FinalDevTools62070051
+cd frontend
+npm run serve
+````
