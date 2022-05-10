@@ -4,6 +4,8 @@
 
 [Jenkins pipeline frontend & backend](https://github.com/Yannawut62070051/FinalDevTools62070051/wiki/Jenkins-pipeline-frontend-&-backend)
 
+[Commit message](https://github.com/Yannawut62070051/FinalDevTools62070051/wiki/Commit-message)
+
 ทดสอบการใช้งาน API ด้วย postman
 methods ``GET``
 ```http://localhost:3013/class/all```
